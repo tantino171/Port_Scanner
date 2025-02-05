@@ -1,10 +1,10 @@
-.PyQt5
-
-Arayuz tasarımı olarak PyQt5 kullanılmıştır.
 
 -pip install PyQt5
 
 -python port_scanner_dark.py 
+
+
+python ve python3 surumleri ile uyumludur.
 
 
 
